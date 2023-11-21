@@ -8,7 +8,6 @@ We need to find the full name of a cybersecurity conference that took place at t
 
 ![IMG_20191120_135304](./media/Hangover/IMG_20191120_135304.jpg)
 
-
 ## Solution
 
 ### Step 1 : Find the location
@@ -18,6 +17,7 @@ Using [Google Lens](https://lens.google.com/), we can find the city where the pi
 ![Google Lens](./media/Hangover/google_lens_frame.png)
 
 The vegetation in the first result looks very similar, so we can assume that the picture was taken in the city of **Natal**, in Brazil.
+
 ![Google Lens](./media/Hangover/google_lens_result.png)
 
 ### Step 2 : Find the date
